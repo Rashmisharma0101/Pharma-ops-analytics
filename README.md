@@ -1,6 +1,6 @@
 ## Pharma Analytics Project
 
-Business Context
+# Business Context
 
 Hospitals depend on timely delivery of medical products (implants, kits, consumables) to support patient care 
 and surgical procedures. Delays, cancellations, or poor demand visibility can directly impact hospital operations 
