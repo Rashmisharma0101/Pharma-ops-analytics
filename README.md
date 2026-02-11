@@ -117,10 +117,10 @@ This project demonstrates end-to-end analytics skills including:
 # DashBoard Preview
 
 ### Executive Summary
-![Executive Summary](Pharma-ops-analytics/Executive_Summary.png)
+![Executive Summary](Executive_Summary.png)
 
 ### Product Revenue Analysis
-![Product Revenue](Pharma-ops-analytics/Product_revenue.png)
+![Product Revenue](/Product_revenue.png)
 
 ### Warehouse & Shipment Performance
-![Warehouse Delays](Pharma-ops-analytics/Warehouse_delays.png)
+![Warehouse Delays](Warehouse_delays.png)
