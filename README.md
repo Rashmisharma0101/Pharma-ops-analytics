@@ -117,10 +117,10 @@ This project demonstrates end-to-end analytics skills including:
 # DashBoard Preview
 
 ### Executive Summary
-![Executive Summary](dashboard_images/01_Executive_Summary.png)
+![Executive Summary](Dashboard Screenshots/Executive_Summary.png)
 
 ### Product Revenue Analysis
-![Product Revenue](dashboard_images/03_Product_Revenue.png)
+![Product Revenue](Dashboard Screenshots/Product_revenue.png)
 
 ### Warehouse & Shipment Performance
-![Warehouse Delays](dashboard_images/04_Warehouse_Delays.png)
+![Warehouse Delays](Dashboard Screenshots/Warehouse_delays.png)
