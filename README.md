@@ -112,3 +112,15 @@ This project demonstrates end-to-end analytics skills including:
 - Healthcare / MedTech domain alignment
 - Utilizing modern cloud data tools like Snowflake
 
+-----------------------------------------------------------------------------------------------------
+
+# DashBoard Preview
+
+### Executive Summary
+![Executive Summary](dashboard_images/01_Executive_Summary.png)
+
+### Product Revenue Analysis
+![Product Revenue](dashboard_images/03_Product_Revenue.png)
+
+### Warehouse & Shipment Performance
+![Warehouse Delays](dashboard_images/04_Warehouse_Delays.png)
